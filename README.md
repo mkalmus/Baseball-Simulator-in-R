@@ -5,6 +5,7 @@ A baseball simulation in R that simulates 9 inning games for a given lineup and 
 
 I encourage others to make improvements of the code. Current tasks include: 
 
+0) placing functions within package 
 1) adding pitcher-batter matchups
 2) adding field characteristics
 3) more accurate lineup simulation
